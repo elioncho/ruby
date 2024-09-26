@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '>= 3.0.0'
 
   spec.add_dependency 'addressable', '>= 2.0.0'
-  spec.add_dependency 'concurrent-ruby', '~> 1.1.5'
+  spec.add_dependency 'concurrent-ruby', '~> 1.3.1'
   spec.add_dependency 'concurrent-ruby-edge', '~> 0.5.0'
   spec.add_dependency 'dry-validation', '~> 1.0'
   spec.add_dependency 'httpclient', '~> 2.8', '>= 2.8.3'
